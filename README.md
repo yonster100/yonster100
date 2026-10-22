@@ -15,9 +15,10 @@ I like breaking things to understand how they hold together, then writing up wha
 `AppSec` · `Vulnerability research` · `Smart-contract security` · `Recon & tooling` · `Linux / OpenSSL`
 
 ### Featured work
-- **[appsec-recon-toolkit](https://github.com/yonster100/appsec-recon-toolkit)** — recon tooling mapped to the OWASP Top 10
-- **[inspect-base64-lab](https://github.com/yonster100/inspect-base64-lab)** — hands-on lab for inspecting and decoding base64 payloads
-- **[media-capture-cli](https://github.com/yonster100/media-capture-cli)** — Python CLI utility
+- **[mac-spoofing-forensics](https://github.com/yonster100/mac-spoofing-forensics)**: forensic playbook and Python/Bash tooling for a VPN MAC-spoofing investigation, with synthetic sample evidence
+- **[appsec-recon-toolkit](https://github.com/yonster100/appsec-recon-toolkit)**: authorization-first web recon workflow mapped to the OWASP Top 10
+- **[inspect-base64-lab](https://github.com/yonster100/inspect-base64-lab)**: hands-on lab for inspecting and decoding base64 payloads
+- **[media-capture-cli](https://github.com/yonster100/media-capture-cli)**: Python CLI utility
 
 ### Tools
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
