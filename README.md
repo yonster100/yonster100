@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33826213/README.md)
 # Hi, I'm Yoni Ghansah 👋
 
 **Cybersecurity student at Purdue University** focused on application security today and **DeFi / smart-contract protocol security** as the long game: protocol exploits, bridges, oracles, wallets, and on-chain incident response.
